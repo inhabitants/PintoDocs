@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Teste de sync feature!
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+A helen é massa
 
 Docusaurus has **much more to offer**!
 
