@@ -1,9 +1,7 @@
 # White Paper Helen AI - Pinto Brasil
 
 ![image](https://github.com/user-attachments/assets/3cbcc4a3-cc63-4089-b096-35b341e4749f)
-sidebar_position: 3
 ---
-
 
 
 Pinto Brasil é uma comunidade Web3 que segue as premissas de desenvolvimento de uma DAO.
@@ -30,7 +28,32 @@ Cada cargo de acesso lhe dá benefícios diferentes e pesos diferentes na comuni
 
 **Benefícios:**
 - Acesso anual a todas as salas premium e calls.
-- Benefícios existentes do tier premium.
+- Benefícios:
+  - existentes do tier premium.
+  - Acesso anual a todas as salas premium e calls.
+### 2. Holder de Pinto
+- Requisitos: Possuir o NFT Pinto da comunidade. 
+(Após a compra pode levar até 24hrs para reconhecer o nft em sua wallet)
+- Benefícios:
+
+   - Acesso vitalício a todos os privilégios do Premium.
+
+### 3. Associate
+ - Requisitos: Holding (ou futuramente staking) de 50M tokens Helen. 
+ - Benefícios:
+   
+   - Tudo incluso no Premium.*
+   - Acesso exclusivo à sala de Associates.
+   - Participação em Deworks pagos.
+   - articipação nos Rewards Secundários.
+     
+### 4. Partner
+- Requisitos: Holding (ou futuramente staking) de 200M tokens Helen.
+- Benefícios:
+  
+   - Todos os benefícios anteriores.*
+   - Acesso exclusivo à sala de Partners.
+   -Participação nos Rewards Primários.
 
 ```md title="blog/2021-02-28-greetings.md"
 ---
