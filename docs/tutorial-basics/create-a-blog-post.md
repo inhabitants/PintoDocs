@@ -18,6 +18,17 @@ Oferecemos calls, alphas, aulas, estudos e eventos voltados para o aprimoramento
 
 **Ambos os produtos não são apenas assets financeiros independentes, mas partes fundamentais da descentralização da plataforma, colocando poder real nas mãos dos holders e do tesouro multikey.**
 
+# Categorias
+
+Cada cargo de acesso lhe dá benefícios diferentes e pesos diferentes na comunidade!  
+*(confira melhor em "Pesos dos cargos")*
+
+### 1. Member Premium
+**Requisitos:** Depósito de 20M tokens Helen no tesouro da comunidade.
+
+**Benefícios:**
+- Acesso anual a todas as salas premium e calls.
+- Benefícios existentes do tier premium.
 
 ```md title="blog/2021-02-28-greetings.md"
 ---
