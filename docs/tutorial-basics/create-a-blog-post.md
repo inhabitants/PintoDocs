@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/3cbcc4a3-cc63-4089-b096-35b341e4749f)
 sidebar_position: 3
 ---
 
@@ -17,6 +17,8 @@ Oferecemos calls, alphas, aulas, estudos e eventos voltados para o aprimoramento
 - 1 NFT: A coleção Pinto, que participou da campanha GOLD na Blast, garantindo recompensas para todos os envolvidos.
 
 **Ambos os produtos não são apenas assets financeiros independentes, mas partes fundamentais da descentralização da plataforma, colocando poder real nas mãos dos holders e do tesouro multikey.**
+
+
 ```md title="blog/2021-02-28-greetings.md"
 ---
 slug: greetings
