@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Teste de sync feature!
+# Pesos dos Cargos
 
 A helen é massa
 
