@@ -53,7 +53,7 @@ Cada cargo de acesso lhe dá benefícios diferentes e pesos diferentes na comuni
   
    - Todos os benefícios anteriores.*
    - Acesso exclusivo à sala de Partners.
-   -Participação nos Rewards Primários.
+   - Participação nos Rewards Primários.
 
 ```md title="blog/2021-02-28-greetings.md"
 ---
