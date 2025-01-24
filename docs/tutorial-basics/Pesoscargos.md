@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Pesos dos Cargos
 
-A helen é massa
+Aqui iremos especificar o peso de cada cargo, o que influência diretamente em sorteios e possiveis recompensas na comunidade!
 
 Docusaurus has **much more to offer**!
 
