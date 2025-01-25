@@ -52,7 +52,15 @@ Fique de olho por aqui, traremos oportunidades de airdrops, sorteios, Whitelists
 
 ![image](https://github.com/user-attachments/assets/d7f9c1c6-0ccf-472d-be35-a5bb6848ef37)
 
+## Alphas dos Callers
+ (note: calls de altíssimo risco não se é falado o momento de saída! Isto ficará a seu critério)
 
+- Calls
+  - Canal dedicado à calls passadas pela comunidade, aqui, as melhores calls de nossos membros são postadas aqui!
+
+
+- Tarcio Calls
+  - Canal do mago Tarcio, aqui são compartilhadas as melhores gemas de IA do dia, geralmente na rede da virtuals, mas cuidado, essas gemas são sempre de altíssimo risco e não é recomendado que você coloque uma parte relevante de seu capital!!
 Documents are **groups of pages** connected through:
 
 
