@@ -2,7 +2,11 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Bem-vindo ao Premium
+Aqui será onde voc~e irá se dar seus primeiros passos como um membro da comunidade Pinto Brasil! 🐥
+
+## Manual do Pinto iniciante
+Este é o lar da Helen e de muitos entusiastas apaixonados por NFTs, criptomoedas e aquele bom papo. Aqui é onde informação, amizade e oportunidades se encontram! Vamos te ajudar a entender como tudo funciona para você aproveitar ao máximo nossa comunidade. 🚀
 
 Documents are **groups of pages** connected through:
 
