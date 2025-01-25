@@ -50,6 +50,9 @@ Aqui compartilhamos nossos referrals nos protocolos que estamos farmando, junto 
 ### 🎁 **SORTEIOS**  
 Fique de olho por aqui, traremos oportunidades de airdrops, sorteios, Whitelists e diversas outras recompensas serão sorteadas e definidas neste canal!
 
+![image](https://github.com/user-attachments/assets/d7f9c1c6-0ccf-472d-be35-a5bb6848ef37)
+
+
 Documents are **groups of pages** connected through:
 
 
