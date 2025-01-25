@@ -48,6 +48,8 @@ Toda oportunidade de airdrop a gente discute por aqui! Fique por dentro das chan
 Aqui compartilhamos nossos referrals nos protocolos que estamos farmando, junto com possíveis alphas para a comunidade. Sinta-se à vontade para compartilhar um protocolo novo e seu referral com a gente!
 
 ### 🎁 **SORTEIOS**  
+Fique de olho por aqui, traremos oportunidades de airdrops, sorteios, Whitelists e diversas outras recompensas serão sorteadas e definidas neste canal!
+
 Documents are **groups of pages** connected through:
 
 
