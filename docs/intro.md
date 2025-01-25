@@ -20,7 +20,7 @@ A Pinto DAO é uma organização autônoma descentralizada estruturada como um v
 
 #### Caçadores e Coletores (Nível 1):
 
-O campo base da comunidade onde diversos membros saem a caça e coleta de oportunidades com drops, whitelists, farms, DeFi em diferentes nichos e chains. Callers são os especialistas que caça que apoiam na direção de onde explorar em que momento.
+O campo base da comunidade onde diversos membros saem a caça e coleta de oportunidades como drops, whitelists, farms, DeFi em diferentes nichos e chains. Callers são os especialistas que caçam e apoiam a direção de que locais explorar em que momento, sejam launchpads, jogos, protocolos, dapps, chains e outros.
 
 #### Agricultura (Nível 2):
 
