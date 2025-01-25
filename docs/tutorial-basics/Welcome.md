@@ -3,8 +3,9 @@ sidebar_position: 2
 ---
 
 # Bem-vindo ao Premium
-Aqui será onde você irá se dar seus primeiros passos como um membro da comunidade Pinto Brasil! 🐥
+Aqui será onde você saberá como dar seus primeiros passos como um membro da comunidade Pinto Brasil! 🐥
 
+![image](https://github.com/user-attachments/assets/d8ccee03-08fe-46f6-aa49-71053703d803)
 
 
 ## Manual do Pinto iniciante
