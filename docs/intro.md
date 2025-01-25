@@ -18,19 +18,19 @@ A Pinto DAO é uma organização autônoma descentralizada estruturada como um v
 
 ### Estrutura do Vilarejo:
 
-Caçadores e Coletores (Nível 1):
+#### Caçadores e Coletores (Nível 1):
 
 O campo base da comunidade onde diversos membros saem a caça e coleta de oportunidades com drops, whitelists, farms, DeFi em diferentes nichos e chains. Callers são os especialistas que caça que apoiam na direção de onde explorar em que momento.
 
-Agricultura (Nível 2):
+#### Agricultura (Nível 2):
 
 Fazendas de conhecimento interna, no qual é produzido conteúdo gradativo para expandir farms e melhora da geração de renda passiva. Aqui, estudos, aulas e convidados especiais são trazidos para escalar o conhecimento dos membros.
 
-Ferraria (Nível 3):
+#### Ferraria (Nível 3):
 
 Um laboratório colaborativo onde as habilidades dos membros se unem para construir ferramentas úteis tanto para a comunidade quanto para clientes externos. Sendo uma fonte de geração de receita para esses membros e tesouro da comunidade.
 
-Exploratório (Nível 4):
+#### Exploratório (Nível 4):
 
 Focado na pesquisa e experimentação de novas tecnologias e abordagens vanguadistas, com a utilização de plataformas, APIs, sistemas e modelos em alpha, afim de trazer oportunidades para a comunidade como um todo. Local no qual nasce HelenAI como uma personagem de brand compartilhada.
 
@@ -59,7 +59,7 @@ HelenAI é uma agente de AI projetada para ser uma participante das operações 
 - Pesquisa e Inovação: Ela é um produto experimental, com updates constantes e arriscados, no qual serve de curva de aprendizado para expandir gradativamente a habilidade de membros ativos em gerenciar esse tipo de nova tecnologia.
 
 
-Missão:
+### Missão:
 
 Representar e amplificar a marca da Pinto DAO através de sua presença no ecossistema Web3.
 
