@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Vamos descobrir o Pinto e entender a HelenAI em menos de 5 minutos
 
-## Pinto DAO - White Paper
+## White Paper - Overview
 
 Bem-vindo ao Whitepaper do Pinto DAO e seu principal produto HelenAI, onde exploramos as bases, objetivos e funcionalidades desses dois pilares. Este documento serve como uma referência técnica para compreender a visão, as estruturas e as tecnologias envolvidas no projeto.
 
