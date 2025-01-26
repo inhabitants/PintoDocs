@@ -7,11 +7,10 @@
 A Pinto Brasil nasceu com a visão de criar uma comunidade Web3 inclusiva, colaborativa e inovadora, fundamentada nos princípios de uma DAO (Organização Autônoma Descentralizada). Em um cenário onde a tecnologia blockchain está redefinindo as interações digitais, nosso objetivo é oferecer um espaço onde pessoas de diferentes níveis de experiência possam se conectar, aprender e construir juntos.
 
 ## Sobre
-Vivemos em um momento de transformação no ecossistema Web3, com o surgimento de tecnologias emergentes como inteligência artificial, NFTs e protocolos experimentais. Pinto Brasil se posiciona na vanguarda desse movimento, integrando essas inovações em uma estrutura descentralizada que empodera seus membros.
 
-Com o token $Helen e a coleção de NFTs Pinto, criamos um ecossistema que não apenas recompensa a participação, mas também coloca o poder de decisão nas mãos da comunidade. Aqui, acreditamos que a descentralização é mais do que uma tecnologia; é uma filosofia que promove inclusão, transparência e crescimento coletivo.
+Embora ainda recente, nossa comunidade busca explorar as possibilidades de tecnologias emergentes, como inteligência artificial, NFTs e novos protocolos blockchain. Por meio do token $Helen e da coleção de NFTs Pinto, construímos um ecossistema que valoriza a participação e incentiva o envolvimento ativo dos membros.
 
-Nosso compromisso é explorar as fronteiras do possível, desde novas cadeias de blockchain até projetos experimentais que desafiam o status quo. Mais do que uma comunidade, Pinto Brasil é um espaço onde ideias se transformam em oportunidades e onde cada membro é parte fundamental dessa jornada.
+Mais do que uma plataforma de troca de informações, a Pinto Brasil é um espaço em constante evolução, onde cada membro contribui para moldar o futuro da comunidade e formar uma grande biblioteca de informção compartilhada!
 
 Oferecemos calls, alphas, aulas, estudos e eventos voltados para o aprimoramento da comunidade e de seus participantes. Nosso objetivo é explorar e construir oportunidades junto a vanguarda da Web3, com foco em chains emergentes e projetos novos e experimentais (Ex: AI agents, Lush, Ai16z, Blast, Spellborne)
 
