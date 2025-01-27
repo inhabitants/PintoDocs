@@ -53,14 +53,26 @@ Fique de olho por aqui, traremos oportunidades de airdrops, sorteios, Whitelists
 ![image](https://github.com/user-attachments/assets/d7f9c1c6-0ccf-472d-be35-a5bb6848ef37)
 
 ## Alphas dos Callers
- (note: calls de altíssimo risco não se é falado o momento de saída! Isto ficará a seu critério)
+(Note: calls de altíssimo risco não se é falado o momento de saída! Isto ficará a seu critério)
 
-- Calls
-  - Canal dedicado à calls passadas pela comunidade, aqui, as melhores calls de nossos membros são postadas aqui!
+### Research
+Esta é uma sala dedicada onde nossos pesquisadores da comunidade e membros compartilham suas pesquisas e análises. O objetivo deste espaço é promover a troca de conhecimento e informações valiosas sobre o ecossistema cripto.
 
+### Calls
+Canal dedicado às calls passadas pela comunidade. Aqui, as melhores calls de nossos membros são postadas!
 
-- Tarcio Calls
-  - Canal do mago Tarcio, aqui são compartilhadas as melhores gemas de IA do dia, geralmente na rede da virtuals, mas cuidado, essas gemas são sempre de altíssimo risco e não é recomendado que você coloque uma parte relevante de seu capital!!
+### Tarcio Calls
+Canal do mago Tarcio, onde são compartilhadas as melhores gemas de IA do dia, geralmente na rede da Virtuals. Mas cuidado, essas gemas são sempre de altíssimo risco e não é recomendado que você coloque uma parte relevante de seu capital!
+
+### Borderless Calls
+Canal do nosso **founder**, Borderless, que é um **research** renomado nas áreas de IA e DeFi. Com uma visão abrangente do mercado cripto, ele se destaca em fazer seu dinheiro render e identificar os melhores alphas disponíveis. Neste canal, você encontrará insights valiosos e recomendações que podem ajudar a maximizar suas oportunidades de investimento!
+
+### Kohari Calls
+Canal do caller experiente, Kohari, que é um gigante no game Castile e se destaca em identificar alphas de airdrops e nodes. Com um profundo conhecimento do mercado, ele compartilha suas descobertas e recomendações, ajudando os membros a aproveitar as melhores oportunidades disponíveis. Fique atento às suas dicas valiosas para maximizar seus ganhos!
+
+### Skott Calls
+Canal do caller Skott, que se especializa na rede Solana e compartilha calls de altíssimo risco, com potencial para valorizações absurdas. Ele é um gênio na pesquisa, capaz de identificar projetos recém-lançados com um potencial extraordinário. Este canal é ideal para aqueles que buscam oportunidades ousadas, mas é fundamental que todos façam sua própria pesquisa (DYOR) e não é recomendado usar uma parte significativa do capital.
+
 Documents are **groups of pages** connected through:
 
 
