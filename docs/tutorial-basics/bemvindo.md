@@ -75,6 +75,15 @@ Canal do caller Skott, que se especializa na rede Solana e compartilha calls de 
 
 ### Talles Calls
 Canal do caller Talles, um representante da nova geração e especialista em DeFi. Ele se destaca por identificar e aproveitar as melhores narrativas do mercado, sempre em busca do smart money. Com uma abordagem ágil, Talles consegue analisar múltiplos tokens em questão de minutos, realizando uma varredura eficaz para descobrir oportunidades com grande potencial de valorização. Este canal é ideal para quem procura insights rápidos e promissores no mundo cripto.
+
+### Leitas Calls
+Canal do caller Leitas, um experiente no mercado que desenvolve técnicas para farmar diversos airdrops ao mesmo tempo. Ele não apenas compartilha os melhores alphas para airdrops, mas também traz estratégias eficazes para maximizar os ganhos. Com um estilo didático e técnico, Leitas sabe explorar as oportunidades da melhor maneira, tornando este canal uma fonte valiosa de conhecimento e insights para os membros da comunidade.
+
+### Gaskan Calls
+Canal do caller Gaskan, um especialista da rede SUI que está sempre por dentro dos melhores alphas que a rede oferece. Ele compartilha não apenas os melhores métodos para farmar, mas também explica o raciocínio por trás de suas estratégias, permitindo que os membros compreendam cada passo do processo. Este canal é ideal para quem deseja aprofundar seu conhecimento na rede SUI e aproveitar ao máximo as oportunidades que ela oferece.
+
+### Tato Calls
+Canal do caller Tato, que é ágil e sempre está atento a tudo que acontece no ecossistema. Ele está por dentro de todos os alphas, desde DeFi até nodes, e sempre surpreende os membros. Se você está em busca de airdrops acessíveis ou até mesmo oportunidades free, este é o lugar certo para encontrar informações valiosas e atualizações rápidas.
 Documents are **groups of pages** connected through:
 
 
