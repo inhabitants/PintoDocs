@@ -89,5 +89,12 @@ Canal do caller Milca0, especialista em GameFi, que vai te deixar a par das melh
 ### Mendes Calls
 Canal do caller Mendes, um conhecedor da Solana que está sempre atento ao que acontece na rede. Mas não para por aí! Ele também está de olho em oportunidades em outras redes e até em games, garantindo que os membros fiquem atualizados sobre tanto airdrops e calls com bom potencial de upisde. Siga Mendes para não perder nenhuma oportunidade valiosa!
 
+## Próximos Passos
+
+- **Participe das Discussões**: Não hesite em se juntar às conversas nos canais da comunidade. Sua voz é importante!
+- **Explore os Canais**: Navegue pelos diferentes canais e descubra quais áreas mais lhe interessam.
+- **Interaja com os Callers**: Aproveite a oportunidade de aprender com os especialistas da comunidade e faça perguntas.
+- **Fique Atento às Atualizações**: Mantenha-se informado sobre as novidades e eventos através do canal #anúncios-premium.
+
 
 
