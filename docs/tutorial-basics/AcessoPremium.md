@@ -1,4 +1,4 @@
-### Como Obter Acesso ao Premium
+###Como Obter Acesso ao Premium
 
 **Introdução**  
 O acesso Premium na comunidade Pinto Brasil é como ter uma chave para uma seção especial da nossa biblioteca de informações compartilhada, com acesso a salas exclusivas e conteúdo de alta qualidade. Veja como você pode se tornar um membro Premium:
