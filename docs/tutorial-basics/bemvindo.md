@@ -73,6 +73,8 @@ Canal do caller experiente, Kohari, que é um gigante no game Castile e se desta
 ### Skott Calls
 Canal do caller Skott, que se especializa na rede Solana e compartilha calls de altíssimo risco, com potencial para valorizações absurdas. Ele é um gênio na pesquisa, capaz de identificar projetos recém-lançados com um potencial extraordinário. Este canal é ideal para aqueles que buscam oportunidades ousadas, mas é fundamental que todos façam sua própria pesquisa (DYOR) e não é recomendado usar uma parte significativa do capital.
 
+### Talles Calls
+Canal do caller Talles, um representante da nova geração e especialista em DeFi. Ele se destaca por identificar e aproveitar as melhores narrativas do mercado, sempre em busca do smart money. Com uma abordagem ágil, Talles consegue analisar múltiplos tokens em questão de minutos, realizando uma varredura eficaz para descobrir oportunidades com grande potencial de valorização. Este canal é ideal para quem procura insights rápidos e promissores no mundo cripto.
 Documents are **groups of pages** connected through:
 
 
