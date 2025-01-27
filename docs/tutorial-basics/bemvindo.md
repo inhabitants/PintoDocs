@@ -1,8 +1,6 @@
----
-sidebar_position: 2
----
 
-# Bem-vindo ao Premium
+
+# Acesso Premium
 Aqui será onde você saberá como dar seus primeiros passos como um membro da comunidade Pinto Brasil! 🐥
 
 ![image](https://github.com/user-attachments/assets/d8ccee03-08fe-46f6-aa49-71053703d803)
@@ -83,56 +81,13 @@ Canal do caller Leitas, um experiente no mercado que desenvolve técnicas para f
 Canal do caller Gaskan, um especialista da rede SUI que está sempre por dentro dos melhores alphas que a rede oferece. Ele compartilha não apenas os melhores métodos para farmar, mas também explica o raciocínio por trás de suas estratégias, permitindo que os membros compreendam cada passo do processo. Este canal é ideal para quem deseja aprofundar seu conhecimento na rede SUI e aproveitar ao máximo as oportunidades que ela oferece.
 
 ### Tato Calls
-Canal do caller Tato, que é ágil e sempre está atento a tudo que acontece no ecossistema. Ele está por dentro de todos os alphas, desde DeFi até nodes, e sempre surpreende os membros. Se você está em busca de airdrops acessíveis ou até mesmo oportunidades free, este é o lugar certo para encontrar informações valiosas e atualizações rápidas.
-Documents are **groups of pages** connected through:
+Canal do caller Tato, que é ágil e sempre está atento ao que acontece no ecossistema. Ele está por dentro de grandes alphas, desde DeFi até nodes, e sempre surpreende os membros. Se você está em busca de airdrops acessíveis ou até mesmo oportunidades free, este é o lugar certo para encontrar informações valiosas e atualizações rápidas.
+
+### Milca0 Calls
+Canal do caller Milca0, especialista em GameFi, que vai te deixar a par das melhores oportunidades para quem curte play to airdrop ou play to earn. Não perca a chance de aprender com o mestre e aproveitar ao máximo as oportunidades que o universo dos jogos tem a oferecer!
+
+### Mendes Calls
+Canal do caller Mendes, um conhecedor da Solana que está sempre atento ao que acontece na rede. Mas não para por aí! Ele também está de olho em oportunidades em outras redes e até em games, garantindo que os membros fiquem atualizados sobre tanto airdrops e calls com bom potencial de upisde. Siga Mendes para não perder nenhuma oportunidade valiosa!
 
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
 
-## Create your first Doc
-
-Create a Markdown file at `docs/hello.md`:
-
-```md title="docs/hello.md"
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
