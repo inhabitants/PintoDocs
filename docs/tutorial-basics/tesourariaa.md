@@ -1,6 +1,4 @@
 # Tesouraria
-![image](https://github.com/user-attachments/assets/b9279340-6b3c-4f7a-86ff-db4ec986ab65)
-
 
 ### Distribuição do Tesouro da Comunidade
 O tesouro da comunidade Pinto Brasil é dividido da seguinte forma:
