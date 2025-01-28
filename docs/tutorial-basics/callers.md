@@ -13,7 +13,7 @@ Founder da comunidade e research renomado em IA e DeFi, Borderless tem uma visã
 - **Mídias Sociais**: [Twitter](https://x.com/Borderless_DeFi)
 
 #### Kohari
-Especialista em game Castile, Kohari se destaca em identificar alphas de airdrops e nodes, ajudando os membros a maximizar seus ganhos.
+Especialista no game Castile, Kohari se destaca em identificar alphas de airdrops e nodes, ajudando os membros a maximizar seus ganhos.
 - **Mídias Sociais**: [Twitter](https://x.com/eukohari) | [YouTube](https://www.youtube.com/@eukohari)
 
 #### Skott
