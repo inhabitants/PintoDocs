@@ -19,8 +19,8 @@ O tesouro da comunidade Pinto Brasil é dividido da seguinte forma:
 
 - **Tesouro: 25%**  
   - Mantido no tesouro para garantir a estabilidade financeira e apoiar futuras iniciativas e projetos da comunidade.
- 
-  - ## Processo de Decisão
+
+   ## Processo de Decisão
 
 As decisões sobre a alocação de fundos do tesouro são tomadas em conjunto com a comunidade. A Pinto Brasil valoriza a participação ativa de seus membros, garantindo que todos tenham voz nas grandes decisões. As repartições atuais foram decididas coletivamente, refletindo o compromisso da comunidade com a transparência e a colaboração.
 
