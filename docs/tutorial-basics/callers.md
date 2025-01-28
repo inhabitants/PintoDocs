@@ -14,7 +14,7 @@ Founder da comunidade e research renomado em IA e DeFi, Borderless tem uma visã
 
 #### Kohari
 Especialista em game Castile, Kohari se destaca em identificar alphas de airdrops e nodes, ajudando os membros a maximizar seus ganhos.
-- **Mídias Sociais**: [Twitter](https://x.com/eukohari) | [YouTube](youtube.com/@eukohari)
+- **Mídias Sociais**: [Twitter](https://x.com/eukohari) | [YouTube](https://www.youtube.com/@eukohari)
 
 #### Skott
 Focado na rede Solana, Skott compartilha calls de altíssimo risco com potencial para valorizações absurdas, sempre incentivando a pesquisa própria.
@@ -40,7 +40,7 @@ Especialista na rede SUI, Gaskan compartilha métodos de farm e explica o racioc
   
 #### Tato
 Ágil e atento ao ecossistema, Tato está por dentro de grandes alphas e surpreende com airdrops acessíveis e oportunidades free.
-- **Mídias Sociais**: [Twitter](https://x.com/TATOnft) | [YouTube](youtube.com/@TATONFT)
+- **Mídias Sociais**: [Twitter](https://x.com/TATOnft) | [YouTube](https://www.youtube.com/@TATONFT)
 
 #### Milca0
 Especialista em GameFi, Milca0 traz as melhores oportunidades para quem curte play to airdrop ou play to earn.
