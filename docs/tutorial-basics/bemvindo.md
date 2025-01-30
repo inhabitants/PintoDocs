@@ -1,4 +1,6 @@
-
+---
+sidebar_position: 4
+---
 
 # Acesso Premium
 Aqui será onde você saberá como dar seus primeiros passos como um membro da comunidade Pinto Brasil! 🐥
