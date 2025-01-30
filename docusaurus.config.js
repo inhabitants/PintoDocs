@@ -76,9 +76,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Whitepaper',
+        title: 'Pinto Brasil Docs',
         logo: {
-          alt: 'Whitepaper',
+          alt: 'Helenai',
           src: 'img/inbt.svg',
         },
         items: [
