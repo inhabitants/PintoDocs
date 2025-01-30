@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            White Paper - Pinto Brasil 🐥 Helenai
+            White Paper
           </Link>
         </div>
       </div>
