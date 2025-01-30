@@ -90,8 +90,8 @@ const config = {
           },
           {to: '/blog', label: 'Creators', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/inhabitants/PintoDocs',
+            label: 'OpenSource',
             position: 'right',
           },
         ],
