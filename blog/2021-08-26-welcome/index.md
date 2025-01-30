@@ -5,6 +5,6 @@ authors: [slorber, yangshun]
 tags: [pinto,helenai]
 ---
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+Criado com ♥ para comunidade Pinto Brasil e nossa musa HelenAI.
 
 
