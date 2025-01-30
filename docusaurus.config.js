@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Pinto Brasil', // Usually your GitHub org/user name.
-  projectName: 'White Paper', // Usually your repo name.
+  projectName: 'Pinto Brasil Docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'White Paper',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
