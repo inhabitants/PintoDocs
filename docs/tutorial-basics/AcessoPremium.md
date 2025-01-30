@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Como Obter Acesso ao Premium
 
 **Introdução**  
