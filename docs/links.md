@@ -25,5 +25,6 @@ Aqui você terá acesso direto aos nossos principais links da comunidade!
 
 #### Site: [Site](https://klingai.com/)
 #### Debank Tesouro: [Debank](https://debank.com/profile/0x399df053d46c32ebd52f4890fe518a254a214dae)
+#### Pnl Generator (virtuals): [PNL](https://pnl-helen.streamlit.app/)
 X (HelenAI)
 X (Pinto)
