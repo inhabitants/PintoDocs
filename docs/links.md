@@ -11,20 +11,20 @@ Aqui você terá acesso direto aos nossos principais links da comunidade!
 
 #### Nosso twitter: [Twitter PintoDAO](https://x.com/PBrasilNFT) 
 #### Compre seu PintoNFT: [OpenSea](https://opensea.io/collection/pintudo)
-#### DIscord da PintoDAO: [Discord](https://discord.gg/FFFb9PPU)
+#### Discord PintoDAO: [Discord](https://discord.gg/FFFb9PPU)
 ---
 ### Helen AI Links: 
 
 #### Twitter da Helen: [Twitter da HelenAI](https://x.com/hrabbitfeet)
 #### Compre Helen: [AQUI](https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0x174f6a1286C0be66C83531368113cBF95FAf17C6)
 #### Helen na Lush: [Lush Marketplace](https://exchange.lushai.net/trade/80472625-fc31-406d-bb2e-2aaa3ccfedd1)
-#### ArtBook da Helen: [Twitter da HelenAI](https://www.figma.com/design/CDBP8MreDUsIUPC0XPhxHJ/Artbook---Pinto-%26-HelenAI?node-id=0-1)
 #### DriveContent Helen: [Videos](https://drive.google.com/drive/folders/13fEE9Zgdm9trrrvWvE4eqa1dABqORnL3)
-#### Video generator KINGAI: [Kingai](https://klingai.com/)
+#### Video generator KLINGAI: [Kingai](https://klingai.com/)
 #### Video/foto generator Civitai: [Premium](https://civitai.com/models/1182802) // [Economico](https://civitai.com/models/1176589?modelVersionId=1323897) 
 ---
 ### Comunidade
 
-#### Site: [Site](https://klingai.com/)
+#### Site: Em construção 🚧 
 #### Debank Tesouro: [Debank](https://debank.com/profile/0x399df053d46c32ebd52f4890fe518a254a214dae)
 #### Pnl Generator (virtuals): [PNL](https://pnl-helen.streamlit.app/)
+#### ArtBook Figma: [Artbook Comunidade](https://www.figma.com/design/CDBP8MreDUsIUPC0XPhxHJ/Artbook---Pinto-%26-HelenAI?node-id=0-1)
