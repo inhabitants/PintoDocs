@@ -7,7 +7,9 @@ Aqui você terá acesso direto aos nossos principais links da comunidade!
 
 ### PintoDAO Links:
 
-#### nosso twitter: [Twitter](https://x.com/PBrasilNFT) 
-Discord
+#### Nosso twitter: [Twitter PintoDAO](https://x.com/PBrasilNFT) 
+#### Compre seu PintoNFT: [OpenSea](https://opensea.io/collection/pintudo)
+#### DIscord da PintoDAO: [Discord](https://discord.gg/FFFb9PPU)
+
 X (HelenAI)
 X (Pinto)
