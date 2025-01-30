@@ -20,5 +20,10 @@ Aqui você terá acesso direto aos nossos principais links da comunidade!
 #### DriveContent Helen: [Videos](https://drive.google.com/drive/folders/13fEE9Zgdm9trrrvWvE4eqa1dABqORnL3)
 #### Video generator KINGAI: [Kingai](https://klingai.com/)
 #### Video/foto generator Civitai: [Premium](https://civitai.com/models/1182802) // [Economico](https://civitai.com/models/1176589?modelVersionId=1323897) 
+---
+### Comunidade
+
+#### Site: [Site](https://klingai.com/)
+#### Debank Tesouro: [Debank](https://debank.com/profile/0x399df053d46c32ebd52f4890fe518a254a214dae)
 X (HelenAI)
 X (Pinto)
