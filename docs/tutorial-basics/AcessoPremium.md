@@ -43,5 +43,4 @@ O acesso Premium na comunidade Pinto Brasil é como ter uma chave para uma seç�
 - **Participe Ativamente**: Contribua com suas próprias descobertas e aproveite as discussões para enriquecer nosso acervo coletivo.
 
 **Conclusão**  
-<p style="text-align: justify;">
  Ao seguir esses passos, você poderá acessar uma parte especial da nossa biblioteca de informações, contribuindo e se beneficiando do conhecimento compartilhado na comunidade Pinto Brasil.
