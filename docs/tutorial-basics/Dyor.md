@@ -28,3 +28,8 @@ O DYOR não é apenas sobre encontrar informações sobre um ativo específico, 
 ## Ferramentas para Pesquisa
 
 Existem várias ferramentas disponíveis que podem ajudar na pesquisa de criptomoedas e investimentos. Aqui estão algumas que você talvez não conheça!
+
+### DeFiLlama
+
+DeFiLlama é uma plataforma que oferece informações detalhadas sobre o ecossistema de finanças descentralizadas (DeFi). Ela permite que os usuários monitorem o valor total bloqueado (TVL) em diversos protocolos, além de fornecer dados sobre taxas de retorno, liquidez e volume de negociação. Essa ferramenta é essencial para investidores que buscam identificar projetos promissores e tomar decisões informadas sobre alocação de recursos.
+**Link:** [DefiLlama](https://defillama.com/)
