@@ -24,3 +24,7 @@ Ao se aprofundar em um projeto, você pode entender melhor sua proposta de valor
 #### Construção de Conhecimento
 
 O DYOR não é apenas sobre encontrar informações sobre um ativo específico, mas também sobre aprender sobre o mercado como um todo. Isso ajuda a construir um conhecimento sólido que pode ser útil em futuras decisões de investimento.
+
+## Ferramentas para Pesquisa
+
+Existem várias ferramentas disponíveis que podem ajudar na pesquisa de criptomoedas e investimentos. Aqui estão algumas que você talvez não conheça!
