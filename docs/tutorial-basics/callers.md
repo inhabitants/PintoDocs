@@ -15,6 +15,7 @@ Tarcio é conhecido por compartilhar as melhores gemas de IA do dia, geralmente 
 - **Mídias Sociais**: [Twitter](https://x.com/anderson_t60080) 
 
 #### Borderless
+<img src="imagetest.png" alt="Minha Imagem" width="75" />
 Founder da comunidade e research renomado em IA e DeFi, Borderless tem uma visão abrangente do ecossistema cripto e é mestre em identificar alphas.
 - **Mídias Sociais**: [Twitter](https://x.com/Borderless_DeFi)
 
