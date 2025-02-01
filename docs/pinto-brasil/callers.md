@@ -11,7 +11,7 @@ sidebar_position: 5
 Conheça os callers da comunidade Pinto Brasil, especialistas que compartilham insights valiosos e oportunidades de investimento. Abaixo, você encontrará um breve resumo sobre cada um deles e links para suas mídias sociais.
 
 #### Tarcio
-<img src="img/tarcio.png" alt="tarcio" width="75" />
+<img src="tarcio.png" alt="tarcio" width="75" />
 Tarcio é conhecido por compartilhar as melhores gemas de IA do dia, geralmente na rede da Virtuals. Suas calls são de altíssimo risco, mas com potencial significativo.
 - **Mídias Sociais**: [Twitter](https://x.com/anderson_t60080) 
 
