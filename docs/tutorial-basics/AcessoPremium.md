@@ -3,6 +3,8 @@ sidebar_position: 1
 ---
 
 # Como Obter Acesso ao Premium
+![image](https://github.com/user-attachments/assets/90ec25a9-6bd6-4548-b1ef-1df87e09b7ae)
+
 
 #### **Introdução**  
 
