@@ -34,7 +34,7 @@ Oferecemos calls, alphas, aulas, estudos e eventos voltados para o aprimoramento
 # Categorias
 
 Cada cargo de acesso lhe dá benefícios diferentes e pesos diferentes na comunidade!  
-*(confira melhor em "[Pesos dos Cargos](/docs/tutorial-basics/Pesoscargos.md)")*
+*(confira melhor em "[Pesos dos Cargos](Pesoscargos.md)")*
 
 ### 1. Member Premium
 **Requisitos:** Depósito de 20M tokens Helen no tesouro da comunidade.
