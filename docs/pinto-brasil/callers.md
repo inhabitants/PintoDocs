@@ -30,7 +30,7 @@ Focado na rede Solana, Skott compartilha calls de altíssimo risco com potencial
 - **Mídias Sociais**: [Twitter](https://x.com/skottrun) 
 
 #### Talles
-<img src="/imgs/talles.png" alt="talles" width="75" />
+<img src="/img/talles.png" alt="talles" width="75" />
 Representante da nova geração, Talles é especialista em DeFi e busca as melhores narrativas do mercado, sempre em busca do smart money. Ele também oferece uma mentoria própria, totalmente orientada para:
 
 1. Elevar o nível do conhecimento.
@@ -46,21 +46,21 @@ Experiente no mercado, Leitas desenvolve técnicas para farmar airdrops e compar
 - **Mídias Sociais**: [Twitter](https://x.com/leitas873)
 
 #### Gaskan
-<img src="/imgs/gaskan.png" alt="gaskan" width="75" />
+<img src="/img/gaskan.png" alt="gaskan" width="75" />
 Especialista na rede SUI, Gaskan compartilha métodos de farm e explica o raciocínio por trás de suas estratégias.
 - **Mídias Sociais**: [Twitter](https://x.com/e88henrique)
   
 #### Tato
-<img src="/imgs/tato.png" alt="tato" width="75" />
+<img src="/img/tato.png" alt="tato" width="75" />
 Ágil e atento ao ecossistema, Tato está por dentro de grandes alphas e surpreende com airdrops acessíveis e oportunidades free.
 - **Mídias Sociais**: [Twitter](https://x.com/TATOnft) | [YouTube](https://www.youtube.com/@TATONFT)
 
 #### Milca0
-<img src="/imgs/milca0.png" alt="milca0" width="75" />
+<img src="/img/milca0.png" alt="milca0" width="75" />
 Especialista em GameFi, Milca0 traz as melhores oportunidades para quem curte play to airdrop ou play to earn.
 - **Mídias Sociais**: [Twitter](https://x.com/Milca0_) | [YouTube](https://www.youtube.com/channel/UC5X-sGnqMsL3R4WVj-HCiOA)
 
 #### Mendes
-<img src="/imgs/mendes.png" alt="mendes" width="75" />
+<img src="/img/mendes.png" alt="mendes" width="75" />
 Conhecedor da Solana, Mendes está atento a oportunidades em outras redes e games, garantindo que os membros fiquem atualizados.
 - **Mídias Sociais**: [Twitter](https://x.com/mendes_degen) 
