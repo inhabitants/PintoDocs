@@ -26,6 +26,8 @@ Oferecemos calls, alphas, aulas, estudos e eventos voltados para o aprimoramento
 
 **Ambos os produtos não são apenas assets financeiros independentes, mas partes fundamentais da descentralização da plataforma, colocando poder real nas mãos dos holders e do tesouro multikey.**
 
+![image](https://github.com/user-attachments/assets/1fd0c517-5bc0-4408-a2ad-f7a084a5f7dd)
+
 # Categorias
 
 Cada cargo de acesso lhe dá benefícios diferentes e pesos diferentes na comunidade!  
