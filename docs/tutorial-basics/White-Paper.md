@@ -4,7 +4,8 @@ sidebar_position: 3
 
 # White Paper Helen AI - Pinto Brasil
 
-![image](https://github.com/user-attachments/assets/77b23558-3333-49d6-ab7d-9fc0a12965b5)
+![image](https://github.com/user-attachments/assets/c49d8aa0-1b58-4dda-a2e9-3c893df5ddb3)
+
 
 
 ---
