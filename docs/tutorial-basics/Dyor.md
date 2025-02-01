@@ -33,3 +33,7 @@ Existem várias ferramentas disponíveis que podem ajudar na pesquisa de criptom
 
 DeFiLlama é uma plataforma que oferece informações detalhadas sobre o ecossistema de finanças descentralizadas (DeFi). Ela permite que os usuários monitorem o valor total bloqueado (TVL) em diversos protocolos, além de fornecer dados sobre taxas de retorno, liquidez e volume de negociação. Essa ferramenta é essencial para investidores que buscam identificar projetos promissores e tomar decisões informadas sobre alocação de recursos.
 **Link:** [DefiLlama](https://defillama.com/)
+
+### DeBank
+
+DeBank é uma ferramenta que permite que os investidores visualizem suas participações em diferentes protocolos, analisem o desempenho de ativos e comparem taxas de retorno em várias plataformas. Além disso, o DeBank oferece informações sobre a saúde financeira de projetos, como a liquidez disponível e a atividade de negociação, ajudando os usuários a tomar decisões mais informadas e a identificar oportunidades de investimento com maior segurança. [DeBank](https://debank.com/)
