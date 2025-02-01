@@ -11,22 +11,22 @@ sidebar_position: 5
 Conheça os callers da comunidade Pinto Brasil, especialistas que compartilham insights valiosos e oportunidades de investimento. Abaixo, você encontrará um breve resumo sobre cada um deles e links para suas mídias sociais.
 
 #### Tarcio
-<img src="imgs/tarcio.png" alt="Tarcio" width="75" />
+<img src="img/tarcio.png" alt="tarcio" width="75" />
 Tarcio é conhecido por compartilhar as melhores gemas de IA do dia, geralmente na rede da Virtuals. Suas calls são de altíssimo risco, mas com potencial significativo.
 - **Mídias Sociais**: [Twitter](https://x.com/anderson_t60080) 
 
 #### Borderless
-<img src="imgs/borderless.png" alt="Borderless" width="75" />
+<img src="img/borderless.png" alt="borderless" width="75" />
 Founder da comunidade e research renomado em IA e DeFi, Borderless tem uma visão abrangente do ecossistema cripto e é mestre em identificar alphas.
 - **Mídias Sociais**: [Twitter](https://x.com/Borderless_DeFi)
 
 #### Kohari
-<img src="imgs/kohari.png" alt="Kohari" width="75" />
+<img src="img/kohari.png" alt="kohari" width="75" />
 Especialista no game Castile, Kohari se destaca em identificar alphas de airdrops e nodes, ajudando os membros a maximizar seus ganhos.
 - **Mídias Sociais**: [Twitter](https://x.com/eukohari) | [YouTube](https://www.youtube.com/@eukohari)
 
 #### Skott
-<img src="imgs/skott.png" alt="Skott" width="75" />
+<img src="img/skott.png" alt="skott" width="75" />
 Focado na rede Solana, Skott compartilha calls de altíssimo risco com potencial para valorizações absurdas, sempre incentivando a pesquisa própria.
 - **Mídias Sociais**: [Twitter](https://x.com/skottrun) 
 
