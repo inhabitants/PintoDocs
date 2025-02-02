@@ -4,6 +4,9 @@ sidebar_position: 2
 
 # Pesos dos Cargos
 
+![image](https://github.com/user-attachments/assets/049fe753-99bd-4e6b-a9e9-5a74874e29e7)
+
+
 Nossa comunidade é estruturada em um sistema de cargos baseado na contribuição de cada membro, medido por "pesos" que refletem sua participação e envolvimento. Esses pesos são atribuídos de acordo com os seguintes critérios:
 
 ### Detalhes dos Pesos:
