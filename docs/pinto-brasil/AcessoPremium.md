@@ -46,3 +46,6 @@ O acesso Premium na comunidade Pinto Brasil é como ter uma chave para uma seç�
 
 **Conclusão**  
  Ao seguir esses passos, você poderá acessar uma parte especial da nossa biblioteca de informações, contribuindo e se beneficiando do conhecimento compartilhado na comunidade Pinto Brasil.
+
+ ![image](https://github.com/user-attachments/assets/896e9ba0-1694-49d4-a889-4c91b0056540)
+
