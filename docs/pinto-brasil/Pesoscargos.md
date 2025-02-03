@@ -44,4 +44,5 @@ Nossa comunidade é estruturada em um sistema de cargos baseado na contribuiçã
 Nosso objetivo é criar um ambiente inclusivo e meritocrático, onde o esforço e o comprometimento sejam valorizados. A estrutura de pesos assegura que as decisões da comunidade reflitam a diversidade de seus membros e fortalece a visão de longo prazo da DAO, alinhando os interesses individuais com os objetivos coletivos.
 
 
+![image](https://github.com/user-attachments/assets/5f53942c-3ed0-495f-8d8d-8f0dc45c5ad6)
 
