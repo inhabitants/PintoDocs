@@ -36,4 +36,11 @@ DeFiLlama é uma plataforma que oferece informações detalhadas sobre o ecossis
 
 ### DeBank
 
-DeBank é uma ferramenta que permite que os investidores visualizem suas participações em diferentes protocolos, analisem o desempenho de ativos e comparem taxas de retorno em várias plataformas. Além disso, o DeBank oferece informações sobre a saúde financeira de projetos, como a liquidez disponível e a atividade de negociação, ajudando os usuários a tomar decisões mais informadas e a identificar oportunidades de investimento com maior segurança. [DeBank](https://debank.com/)
+DeBank é uma ferramenta que permite que os investidores visualizem suas participações em diferentes protocolos, analisem o desempenho de ativos e comparem taxas de retorno em várias plataformas. Além disso, o DeBank oferece informações sobre a saúde financeira de projetos, como a liquidez disponível e a atividade de negociação, ajudando os usuários a tomar decisões mais informadas e a identificar oportunidades de investimento com maior segurança. 
+**Link:** [DeBank](https://debank.com/)
+
+### GmGn.ai
+
+A gmgn.ai é uma plataforma inovadora que utiliza inteligência artificial para aprimorar a experiência de investimento em finanças descentralizadas (DeFi). Com algoritmos avançados, oferece análises preditivas, recomendações personalizadas e ferramentas de monitoramento de portfólio, permitindo que os usuários identifiquem tendências de mercado e oportunidades de investimento em tempo real. Entre suas funcionalidades, destacam-se a análise de sentimento do mercado e relatórios detalhados sobre o desempenho de protocolos DeFi, capacitando os investidores a tomar decisões mais informadas e estratégicas para maximizar seus retornos. É possivel também trackear wallets de seu interesse e ficar a par das movimentações delas no mesmo segundo (até 100 wallets)!
+**Link:** [GmGn](https://gmgn.ai/)
+
