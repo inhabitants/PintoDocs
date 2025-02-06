@@ -3,7 +3,7 @@ sidebar: 8
 ---
 
 # Staff
-Está área é dedicada para o nosso time, aqui você irá conhecer um pouquinho sobre nós!
+Está área é dedicada para o nosso time, aqui você irá conhecer um pouquinho sobre cada um de nós!
 
 ### Fouder/Product Design
 
