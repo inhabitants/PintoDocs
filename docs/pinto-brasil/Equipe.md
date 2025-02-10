@@ -7,11 +7,14 @@ Está área é dedicada para o nosso time, aqui você irá conhecer um pouquinho
 
 ### Fouder/Product Design
 
-#### **Borderless** 
+#### **Borderless**  ![image](https://github.com/user-attachments/assets/41e15fc5-5b10-4173-996c-408f47bb5ace)
+
  - Nosso Founder e Designer de produto da comunidade! já experiente no assunto, Bord estuda o mercado dês de 2014 e em 2017 abraçou o mercado de vez!
+
+
 Midia Social: 
 
-### Discord Leader
+### Discord Leade
 #### Profeh
  - Responsável por controlar as coisas no discord e o configura! Além de ser um de nossos renomados researchers.
 
