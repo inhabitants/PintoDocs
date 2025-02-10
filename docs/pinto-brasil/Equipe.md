@@ -14,7 +14,7 @@ Está área é dedicada para o nosso time, aqui você irá conhecer um pouquinho
 
 Midia Social: 
 
-### Discord Leade
+### Discord Leader
 #### Profeh
  - Responsável por controlar as coisas no discord e o configura! Além de ser um de nossos renomados researchers.
 
