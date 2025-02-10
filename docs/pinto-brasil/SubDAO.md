@@ -75,7 +75,7 @@ Para chegar aos números propostos, foram usados dois critérios como pilares:
 
 Todas as SubDAOs devem operar alinhadas aos valores éticos e manter um comportamento adequado à identidade da marca PintoDAO, HelenAI ou outros produtos da DAO. As diretrizes específicas e os padrões de conformidade são definidos na documentação central do projeto, acessível no White Paper oficial:  
 
-📄 [WhitePaper](intro.md)
+📄 [WhitePaper](PintoDocs/docs/intro.md)
 
 Caso os membros da DAO ou os membros eleitos líderes da PintoDAO percebam um comportamento inadequado em uma das SubDAOs, medidas poderão ser tomadas a fim de consertar essa falha e dirimir danos para toda a comunidade.  
 
