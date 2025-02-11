@@ -86,4 +86,4 @@ Todas as SubDAOs devem operar alinhadas aos valores éticos e manter um comporta
 
 Caso os membros da DAO ou os membros eleitos líderes da PintoDAO percebam um comportamento inadequado em uma das SubDAOs, medidas poderão ser tomadas a fim de consertar essa falha e dirimir danos para toda a comunidade.  
 
-Este documento será atualizado conforme novas necessidades surgirem e novas SubDAOs forem implementadas.  
+Este documento será atualizado conforme novas necessidades de customização e novas SubDAOs forem implementadas, é esperado atualizações e adaptações de incentivos para variados casos possíveis.  
