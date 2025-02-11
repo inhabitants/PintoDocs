@@ -2,15 +2,17 @@
 
 ## O que são SubDAOs?  
 
+Em analogia podem ser lidas como Produtos/Serviços providos por um pequeno squad especializado de membros da DAO principal. Gerindo um produto ou prestando um serviço para dentro ou fora da comunidade provendo e recebendo benefícios relacionados a DAO principal.
+
 SubDAOs (sub Decentralized Autonomous Organizations) são subdivisões especializadas dentro de uma DAO principal, criadas para descentralizar a governança e otimizar a gestão de diferentes aspectos do ecossistema. Cada subDAO tem autonomia parcial, regras próprias e um time gestor responsável por sua operação, enquanto ainda segue os princípios e diretrizes estabelecidos pela DAO principal.  
 
-Na PintoDAO, os SubDAOs são projetados para permitir uma gestão eficiente e rentável de diferentes frentes de atuação, no qual elas podem conter um único membro gestor ou até 9 membros no total a fim de promover agilidade, descentralização e foco executivo.  
+Na PintoDAO, as SubDAOs são projetados para permitir uma gestão eficiente e rentável de diferentes frentes de atuação, no qual elas podem conter um único membro gestor ou até 9 membros no total a fim de promover agilidade, descentralização e foco executivo. 
 
 ---
 
 ## SubDAOs Relevantes para a PintoDAO  
 
-### 1. SubDAO Merch  
+### 2. SubDAO Merch  
 **Objetivo:** Gerir e expandir a linha de merchandising das marcas Pinto, HelenAI e potenciais novas coleções da comunidade.  
 
 **Modelo de operação:**  
@@ -20,7 +22,7 @@ Na PintoDAO, os SubDAOs são projetados para permitir uma gestão eficiente e re
 
 ---
 
-### 2. SubDAO Fanvue  
+### 3. SubDAO Fanvue  
 **Objetivo:** Gerenciar o Fanvue e outras plataformas similares, como Patreon e OnlyFans, voltadas para monetização de fotografia e vídeos da HelenAI, explorando um público masculino maior de idade.  
 
 **Modelo de operação:**  
@@ -30,7 +32,7 @@ Na PintoDAO, os SubDAOs são projetados para permitir uma gestão eficiente e re
 
 ---
 
-### 3. SubDAO Social Media  
+### 4. SubDAO Social Media  
 **Objetivo:** Ampliar a presença e a influência da HelenAI nas redes sociais, maximizando a visibilidade da marca e oportunidades de monetização.  
 
 **Modelo de operação:**  
@@ -41,7 +43,7 @@ Na PintoDAO, os SubDAOs são projetados para permitir uma gestão eficiente e re
 
 ---
 
-### 4. SubDAO AI Factory  
+### 5. SubDAO AI Factory  
 **Objetivo:** Prover serviços customizados de IA, oferecendo versões personalizadas da HelenAI para clientes interessados em integrações próprias e soluções sob demanda.  
 
 **Modelo de operação:**  
@@ -51,8 +53,8 @@ Na PintoDAO, os SubDAOs são projetados para permitir uma gestão eficiente e re
 
 ---
 
-### 5. SubDAO Community Investments  
-**Objetivo:** Criar um launchpad comunitário para investimentos coletivos, onde a comunidade pode se unir para financiar ferramentas como bots, scripts, apps ou oportunidades especiais com descontos relacionados a pré-vendas de projetos ou geração de liquidez, entre outros que precisem de um pool de investimento de maior proporção, incluindo iniciativas internas ou externas.  
+### 6. SubDAO Community Pools  
+**Objetivo:** Um launchpad comunitário para investimentos coletivos, onde a comunidade pode se unir para financiar ferramentas como bots, scripts, apps ou oportunidades especiais com descontos relacionados a pré-vendas de projetos ou geração de liquidez, entre outros que precisem de um pool de investimento de maior proporção, incluindo iniciativas internas ou externas.  
 
 **Modelo de operação:**  
 - Levantamento de fundos da comunidade para adquirir ativos de interesse coletivo.  
@@ -73,15 +75,8 @@ Para chegar aos números propostos, foram usados dois critérios como pilares:
 
 ## Valores de comunidade  
 
-Todas as SubDAOs devem operar alinhadas aos valores éticos e manter um comportamento adequado à identidade da marca PintoDAO, HelenAI ou outros produtos da DAO. As diretrizes específicas e os padrões de conformidade são definidos na documentação central do projeto, acessível no White Paper oficial:  
-
-📄 [WhitePaper](docs/intro.md)
+Todas as SubDAOs devem operar alinhadas aos valores éticos e manter um comportamento adequado à identidade da marca PintoDAO, HelenAI ou outras SubDAOs do ecossistema. As diretrizes e os padrões de conformidade são definidos neste documento de white paper como um todo.
 
 Caso os membros da DAO ou os membros eleitos líderes da PintoDAO percebam um comportamento inadequado em uma das SubDAOs, medidas poderão ser tomadas a fim de consertar essa falha e dirimir danos para toda a comunidade.  
 
 Este documento será atualizado conforme novas necessidades surgirem e novas SubDAOs forem implementadas.  
-
----
-
-## Referências  
-Modelo de squads das metodologias empresariais em big corps na Web2.
