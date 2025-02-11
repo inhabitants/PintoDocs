@@ -1,4 +1,8 @@
-# SubDAOs na PintoDAO
+---
+sidebar_position: 1
+---
+
+# SubDAOs na PintoDA
 
 ## O que são SubDAOs?  
 
