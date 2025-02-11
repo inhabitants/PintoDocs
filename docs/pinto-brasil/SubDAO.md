@@ -2,8 +2,10 @@
 sidebar_position: 4
 ---
 
-# SubDAOs na PintoDA
+# SubDAOs na PintoDAO
 
+ ![image](https://github.com/user-attachments/assets/896e9ba0-1694-49d4-a889-4c91b0056540)
+ 
 ## O que são SubDAOs?  
 
 Em analogia podem ser lidas como Produtos/Serviços providos por um pequeno squad especializado de membros da DAO principal. Gerindo um produto ou prestando um serviço para dentro ou fora da comunidade provendo e recebendo benefícios relacionados a DAO principal.
