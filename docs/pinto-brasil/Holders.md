@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Holder Pinto, Premium, Helen e roles
+# Holders & Roles
 
 ![image](https://github.com/user-attachments/assets/049fe753-99bd-4e6b-a9e9-5a74874e29e7)
 
