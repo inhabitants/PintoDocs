@@ -7,7 +7,44 @@ Aqui será onde você saberá como dar seus primeiros passos como um membro da c
 
 ![image](https://github.com/user-attachments/assets/d8ccee03-08fe-46f6-aa49-71053703d803)
 
+# Como Obter Acesso ao Premium
 
+O acesso Premium na comunidade Pinto Brasil é como ter uma chave para uma seção especial da nossa biblioteca de informações compartilhada, com acesso a salas exclusivas e conteúdo de alta qualidade. Veja como você pode se tornar um membro Premium:
+
+#### Passo a Passo para Obter Acesso ao Premium
+
+**Opção 1: Através de Tokens Helen**
+
+1. **Adquira Tokens Helen**  
+   - Primeiro, adquira tokens Helen, que são necessários para acessar a área Premium.
+
+2. **Deposite Tokens no Tesouro da Comunidade**  
+   - Deposite 20M tokens Helen no tesouro da comunidade para ativar seu acesso Premium.
+
+3. **Envie sua Hash**  
+   - Após o depósito, envie a hash da transação na seção "abra seu ticket" para que possamos confirmar seu acesso.
+
+4. **Confirmação de Acesso**  
+   - Após a confirmação, seu acesso Premium será ativado. Isso pode levar até 24 horas.
+
+**Opção 2: Através de NFT Pinto**
+
+1. **Adquira um NFT Pinto**  
+   - Compre um NFT Pinto da comunidade, que também garante acesso ao Premium.
+
+2. **Verificação do NFT**  
+   - Vá ao canal no Discord "verify-nft" e siga o passo a passo para verificar seu NFT. Após a compra, pode levar até 24 horas para que o NFT seja reconhecido na sua wallet.
+
+3. **Confirmação de Acesso**  
+   - Uma vez verificado, seu acesso Premium será ativado automaticamente.
+
+#### Dicas para Novos Membros Premium
+
+- **Mantenha-se Informado**: Fique atento às notificações do canal **#anúncios-premium** para atualizações importantes.
+- **Participe Ativamente**: Contribua com suas próprias descobertas e aproveite as discussões para enriquecer nosso acervo coletivo.
+
+![image](https://github.com/user-attachments/assets/90ec25a9-6bd6-4548-b1ef-1df87e09b7ae)
+ 
 ## Manual do Pinto iniciante
 
 Este é o lar da Helen e de muitos entusiastas apaixonados por NFTs, criptomoedas e aquele bom papo. Aqui é onde informação, amizade e oportunidades se encontram! Vamos te ajudar a entender como tudo funciona para você aproveitar ao máximo nossa comunidade. 🚀
