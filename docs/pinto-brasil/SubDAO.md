@@ -16,9 +16,9 @@ Na PintoDAO, as SubDAOs são projetados para permitir uma gestão eficiente e re
 **Objetivo:** 1a SubDAO da PintoDAO que tem como objetivo gerir, desenvolver e amplificar a brand Helenai por meio de novas tecnologias, plataformas e comunicação.
 
 **Modelo de operação**
-- Criação de conteúdo utilizando AI e ferramentas de edição de imagem, vídeo e áudio 
+- Criação de conteúdo utilizando AI e ferramentas de edição de imagem, vídeo e áudio geral e também exclusivo.
 - Desenvolvimento de soluções técnicas interativas com HelenAI
-- Gestão de comunicação das personagem em diferentes frentes.
+- Gestão de comunicação das personagem em diferentes frentes (X, Instagram, Discord, Fanvue e outros...)
 - 70% dos lucros são direcionados para o time gestor da subDAO.
 
 ---
@@ -33,28 +33,18 @@ Na PintoDAO, as SubDAOs são projetados para permitir uma gestão eficiente e re
 
 ---
 
-### 3. SubDAO Fanvue  
-**Objetivo:** Gerenciar o Fanvue e outras plataformas similares, como Patreon e OnlyFans, voltadas para monetização de fotografia e vídeos da HelenAI, explorando um público masculino maior de idade.  
+### 3. SubDAO Comunicação e Social Media  
+**Objetivo:** Gerir e ampliar a presença da PintoDAO e suas SubDAOs no site, docs, discord e redes sociais, maximizando a visibilidade da marca e oportunidades de monetização.  
 
 **Modelo de operação:**  
-- Planejamento e produção de conteúdo exclusivo para assinantes.  
-- Gestão de interação e fidelização de público.  
-- 70% dos lucros gerados é destinado ao time gestor da subDAO.  
-
----
-
-### 4. SubDAO Social Media  
-**Objetivo:** Ampliar a presença e a influência das PintoDAO e suas SubDAOs nas redes sociais, maximizando a visibilidade da marca e oportunidades de monetização.  
-
-**Modelo de operação:**  
-- Criação e distribuição de conteúdo para aumentar brand awareness.  
-- Captação e gerenciamento de parcerias comerciais.  
-- Promoção de sorteios e publicidade para impulsionar engajamento.  
+- Criação e distribuição de conteúdo para expressão das ideias aumento do brand awareness.  
+- Captação e gerenciamento de parcerias comerciais. 
+- Promoção de parcerias, sorteios e publicidade para impulsionar engajamento.  
 - 75% dos lucros oriundos de publicidade, parcerias e recompensas das plataformas são direcionados ao time gestor da subDAO.  
 
 ---
 
-### 5. SubDAO AI Factory  
+### 4. SubDAO AI Factory  
 **Objetivo:** Prover serviços customizados de IA, oferecendo versões personalizadas da HelenAI para clientes interessados em integrações próprias e soluções sob demanda.  
 
 **Modelo de operação:**  
@@ -64,14 +54,14 @@ Na PintoDAO, as SubDAOs são projetados para permitir uma gestão eficiente e re
 
 ---
 
-### 6. SubDAO Community Pools  
+### 5. SubDAO Community Pools  
 **Objetivo:** Um launchpad comunitário para investimentos coletivos, onde a comunidade pode se unir para financiar ferramentas como bots, scripts, apps ou oportunidades especiais com descontos relacionados a pré-vendas de projetos ou geração de liquidez, entre outros que precisem de um pool de investimento de maior proporção, incluindo iniciativas internas ou externas.  
 
 **Modelo de operação:**  
 - Levantamento de fundos da comunidade para adquirir ativos de interesse coletivo.  
 - Negociação com parceiros para obter condições especiais.  
 - Gestão do uso, manutenção e operação dos ativos adquiridos.  
-- 90% do lucro gerado é destinado ao time gestor da subDAO.  
+- 90% do lucro gerado é destinado ao time gestor da subDAO e seus participantes.
 
 ---
 
