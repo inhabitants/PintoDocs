@@ -2,12 +2,13 @@
 sidebar_position: 2
 ---
 
-# Pesos dos Cargos
+# Holders & Roles
 
 ![image](https://github.com/user-attachments/assets/049fe753-99bd-4e6b-a9e9-5a74874e29e7)
 
+Nossa comunidade é estruturada em um sistema de cargos baseado em contribuição, holding e "skin on the game".
 
-Nossa comunidade é estruturada em um sistema de cargos baseado na contribuição de cada membro, medido por "pesos" que refletem sua participação e envolvimento. Esses pesos são atribuídos de acordo com os seguintes critérios:
+Assim existe um sistema medido por "pesos" que refletem seus benefícios. Esses pesos são atribuídos de acordo com os seguintes critérios:
 
 ### Detalhes dos Pesos:
 
@@ -26,7 +27,7 @@ Nossa comunidade é estruturada em um sistema de cargos baseado na contribuiçã
 - **Holder 200M+ Tokens $HELEN**  
   Peso: **+6**
   
-- **Core Team**  
+- **Core Member**  
   Peso: **+4**
 
 ### Atenção:
@@ -37,11 +38,10 @@ Nossa comunidade é estruturada em um sistema de cargos baseado na contribuiçã
 
 ### Benefícios para os membros  
 - **Reconhecimento e influência**: Membros com maior peso têm maior influência nas decisões da DAO, garantindo que suas vozes sejam ouvidas em momentos importantes.  
-- **Oportunidades exclusivas**: Os pesos acumulados podem desbloquear benefícios, como acesso a eventos, votações estratégicas e projetos exclusivos.  
-- **Incentivo à colaboração**: O sistema promove a participação ativa, criando um ciclo de crescimento mútuo entre a comunidade e seus membros.  
+- **Oportunidades exclusivas**: Os pesos acumulados desbloqueam benefícios, como acesso a eventos, whitelists, drops, participação em SubDAOs e projetos exclusivos.  
 
 ### Propósito para a comunidade  
-Nosso objetivo é criar um ambiente inclusivo e meritocrático, onde o esforço e o comprometimento sejam valorizados. A estrutura de pesos assegura que as decisões da comunidade reflitam a diversidade de seus membros e fortalece a visão de longo prazo da DAO, alinhando os interesses individuais com os objetivos coletivos.
+Nosso objetivo é criar um ambiente inclusivo e meritocrático, onde o esforço e o comprometimento sejam valorizados. A estrutura de pesos assegura que as decisões da comunidade reflitam a diversidade de seus membros e fortaleça a visão de longo prazo da DAO, alinhando os interesses individuais com os objetivos coletivos.
 
 
 ![image](https://github.com/user-attachments/assets/5f53942c-3ed0-495f-8d8d-8f0dc45c5ad6)
