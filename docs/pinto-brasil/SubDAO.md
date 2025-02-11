@@ -10,7 +10,7 @@ Na PintoDAO, as SubDAOs são projetados para permitir uma gestão eficiente e re
 
 ---
 
-## SubDAOs Relevantes para a PintoDAO  
+## SubDAOs presentes em PintoDAO  
 
 ### 1. SubDAO HelenAI
 **Objetivo:** 1a SubDAO da PintoDAO que tem como objetivo gerir, desenvolver e amplificar a brand Helenai por meio de novas tecnologias, plataformas e comunicação.
