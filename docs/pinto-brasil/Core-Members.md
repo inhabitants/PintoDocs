@@ -5,6 +5,9 @@ sidebar: 8
 # Core Members
 Está área é dedicada para o nosso time, aqui você irá conhecer um pouquinho sobre cada um de nós!
 
+![image](https://github.com/user-attachments/assets/0b840c5b-33e1-4736-8fb3-d9d7a8732f69)
+
+
 ### Founder/Product Design
 
 #### **Borderless**  ![image](https://github.com/user-attachments/assets/41e15fc5-5b10-4173-996c-408f47bb5ace)
