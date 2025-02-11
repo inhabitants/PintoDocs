@@ -12,13 +12,24 @@ Na PintoDAO, as SubDAOs são projetados para permitir uma gestão eficiente e re
 
 ## SubDAOs Relevantes para a PintoDAO  
 
+### 1. SubDAO HelenAI
+**Objetivo:** 1a SubDAO da PintoDAO que tem como objetivo gerir, desenvolver e amplificar a brand Helenai por meio de novas tecnologias, plataformas e comunicação.
+
+**Modelo de operação**
+- Criação de conteúdo utilizando AI e ferramentas de edição de imagem, vídeo e áudio 
+- Desenvolvimento de soluções técnicas interativas com HelenAI
+- Gestão de comunicação das personagem em diferentes frentes.
+- 70% dos lucros são direcionados para o time gestor da subDAO.
+
+---
+
 ### 2. SubDAO Merch  
-**Objetivo:** Gerir e expandir a linha de merchandising das marcas Pinto, HelenAI e potenciais novas coleções da comunidade.  
+**Objetivo:** Gerir e expandir a linha de merchandising das marcas Pinto, HelenAI e outras SubDAOs da comunidade. 
 
 **Modelo de operação:**  
 - Utiliza dropshipping nacional ou parcerias com empresas locais para garantir preços acessíveis e qualidade eficiente dentro do Brasil.  
 - Gerenciamento da produção, marketing, vendas e logística dos produtos.  
-- 50% dos lucros são direcionados para o time gestor da subDAO.  
+- 70% dos lucros são direcionados para o time gestor da subDAO.  
 
 ---
 
@@ -28,12 +39,12 @@ Na PintoDAO, as SubDAOs são projetados para permitir uma gestão eficiente e re
 **Modelo de operação:**  
 - Planejamento e produção de conteúdo exclusivo para assinantes.  
 - Gestão de interação e fidelização de público.  
-- 45% do lucro gerado é destinado ao time gestor da subDAO.  
+- 70% dos lucros gerados é destinado ao time gestor da subDAO.  
 
 ---
 
 ### 4. SubDAO Social Media  
-**Objetivo:** Ampliar a presença e a influência da HelenAI nas redes sociais, maximizando a visibilidade da marca e oportunidades de monetização.  
+**Objetivo:** Ampliar a presença e a influência das PintoDAO e suas SubDAOs nas redes sociais, maximizando a visibilidade da marca e oportunidades de monetização.  
 
 **Modelo de operação:**  
 - Criação e distribuição de conteúdo para aumentar brand awareness.  
