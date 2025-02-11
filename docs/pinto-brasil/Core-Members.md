@@ -2,10 +2,10 @@
 sidebar: 8
 ---
 
-# Staff
+# Core Members
 Está área é dedicada para o nosso time, aqui você irá conhecer um pouquinho sobre cada um de nós!
 
-### Fouder/Product Design
+### Founder/Product Design
 
 #### **Borderless**  ![image](https://github.com/user-attachments/assets/41e15fc5-5b10-4173-996c-408f47bb5ace)
 
