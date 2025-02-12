@@ -63,4 +63,7 @@ Especialista em GameFi, Milca0 traz as melhores oportunidades para quem curte pl
 #### Mendes
 <img src="/img/mendes.png" alt="mendes" width="75" />
 Conhecedor da Solana, Mendes está atento a oportunidades em outras redes e games, garantindo que os membros fiquem atualizados.
-- **Mídias Sociais**: [Twitter](https://x.com/mendes_degen) 
+- **Mídias Sociais**: [Twitter](https://x.com/mendes_degen)
+
+#### Tembz
+<img src="/img/tembz.png" alt="tembz" width="75" />
