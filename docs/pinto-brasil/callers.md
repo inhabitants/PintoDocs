@@ -67,3 +67,5 @@ Conhecedor da Solana, Mendes está atento a oportunidades em outras redes e game
 
 #### Tembz
 <img src="/img/tembz.png" alt="tembz" width="75" />
+Com um raio-x do mercado, tembz consegue achar oportunidades que vão dês de perpétuos á projetos bem fundamentados bem em seu início! Tembz tenta se manter a frente das tendências do mundo cripto e surfa junto com elas pegando valorizações expressivas!
+- **Mídias Sociais:** [Twitter](https://x.com/andretembz)
