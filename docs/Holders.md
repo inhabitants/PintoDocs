@@ -9,23 +9,23 @@ sidebar_position: 3
 Nossa comunidade é estruturada em um sistema de cargos baseado em contribuição, holding e "skin on the game".
 
 ### Cargos/Roles
-##### Tem 1 🐥
-Membros que possuem 1 NFT
+- ##### Tem 1 🐥
+   - Membros que possuem 1 NFT
 
-##### Tem 2 🐥
-Membros que possuem 2 NFTs
+- ##### Tem 2 🐥
+   - Membros que possuem 2 NFTs
 
-##### Premium
-Membros que entraram na comunidade através de tokens $Helen
+- ##### Premium
+   - Membros que entraram na comunidade através de tokens $Helen
 
-##### Associate
-Membros que fazem hold de 50M+ de tokens $Helen
+- ##### Associate
+   - Membros que fazem hold de 50M+ de tokens $Helen
 
-##### Partner
-Membros que fazem hold de 200M+ de tokens $Helen
+- ##### Partner
+   - Membros que fazem hold de 200M+ de tokens $Helen
 
-##### Core Member
-Membros que ativamente estão ajudando na construção da comunidade, e possuem "skin on the game"
+- ##### Core Member
+   - Membros que ativamente estão ajudando na construção da comunidade, e possuem "skin on the game"
 
 **Assim existe um sistema medido por "pesos" que refletem seus benefícios. Esses pesos são atribuídos de acordo com os seguintes critérios:**
 
