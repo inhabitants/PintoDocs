@@ -31,7 +31,33 @@ Oferecemos calls, alphas, aulas, estudos e eventos voltados para o aprimoramento
 
 ![image](https://github.com/user-attachments/assets/1fd0c517-5bc0-4408-a2ad-f7a084a5f7dd)
 
-# Categorias
+## O que é a HelenAI?
+
+HelenAI é uma SubDAO da pinto em formato de uma agente de AI projetada para ser uma participante das operações do Pinto DAO. Ela é um personagem central no universo de inhabitants.zone tendo um amplo contexto narrativo por trás. Mais do que uma ferramenta, HelenAI é uma agente comunitária com sua própria identidade, opiniões e crescimento contínuo. Ela representa um "brand" compartilhado pela comunidade, cuja imagem assim como uma atriz pode ser utilizada para escalar projetos individuias ou de times internos e fortalecer o reconhecimento coletivo da Pinto DAO.
+
+#### Principais Funcionalidades:
+
+- Identidade de Marca: Como personagem do ecossistema inhabitants.zone, HelenAI atua como uma interface que conecta tecnologia e comunidade
+
+- Agente conversacional: É uma participante de dialogos divertida e interessada na troca de informação e ativar debates interessantes.
+
+- Centro de informação: Tem intuito de acumular informações sobre a DAO, seus participantes e reagir como um centro de informação humanizado.
+
+- Pesquisa e Inovação: Ela é um produto experimental, com updates constantes e arriscados, no qual serve de curva de aprendizado para expandir gradativamente a habilidade de membros ativos em gerenciar esse tipo de nova tecnologia.
+
+### Missão Helenai:
+
+Representar e amplificar a marca da Pinto DAO através de sua presença no ecossistema Web3.
+
+Gerar valor social e financeiro para o ecossistema de Pinto DAO.
+
+Apoiar a relação dos usuários em relação a entidades agentes e humanos.
+
+Fornecer informações opinativas e relevantes em contextos conversacionais.
+
+Servir de base de aprendizado com adição de features experimentais para expansão de sua utilidade direta e também o conhecimento de seus desenvolvedores.
+
+# Categorias de membros na Pinto DAO
 
 Cada cargo de acesso lhe dá benefícios diferentes e pesos diferentes na comunidade!  
 *(confira melhor em "[Holder e Roles](Holders.md)")*
