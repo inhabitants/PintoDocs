@@ -12,7 +12,7 @@ sidebar_position: 9
 
 ### O que é a PintoDAO?
 A PintoDAO é uma comunidade brasileira Web3 que busca seguir os princípios de DAO, criada por brasileiros e para falantes do português. Nossa missão é criar um espaço acessível e funcional para acelerar a curva de aprendizado dos membros, possibilitando maiores oportunidades e minimizando perdas.
-📚 *Para saber mais, consulte: [Sobre](./Sobre)*
+📚 *Para saber mais, consulte: [Sobre](./Visaogeral)*
 
 ### Como a PintoDAO está estruturada?
 A DAO é organizada como um vilarejo com 4 níveis principais:
