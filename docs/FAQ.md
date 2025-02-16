@@ -6,8 +6,6 @@ sidebar_position: 9
 
 > ⚠️ **Aviso Importante**: Este FAQ serve como um guia geral e resumido sobre a PintoDAO. Para informações mais detalhadas e atualizadas, recomendamos consultar os documentos específicos linkados em cada seção, pois estes são atualizados com maior frequência.
 
-![image](https://github.com/user-attachments/assets/[placeholder-image-id])
-
 ## Sobre a PintoDAO
 
 ### O que é a PintoDAO?
