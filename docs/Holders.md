@@ -8,6 +8,10 @@ sidebar_position: 3
 
 Nossa comunidade é estruturada em um sistema de cargos baseado em contribuição, holding e "skin on the game".
 
+### Cargos/Roles
+
+
+
 Assim existe um sistema medido por "pesos" que refletem seus benefícios. Esses pesos são atribuídos de acordo com os seguintes critérios:
 
 ### Detalhes dos Pesos:
