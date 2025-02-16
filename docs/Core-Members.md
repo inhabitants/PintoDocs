@@ -1,5 +1,5 @@
 --- 
-sidebar: 8
+sidebar_position: 8
 ---
 
 # Core Members
