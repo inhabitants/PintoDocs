@@ -13,8 +13,8 @@ O tesouro da comunidade Pinto Brasil é dividido da seguinte forma:
 - **Despesas: 26%**  
   - Reservado para cobrir despesas operacionais, garantindo o funcionamento eficiente da comunidade.
 
-- **Sorteios: 1%**  
-  - Destinado a sorteios, proporcionando aos membros a chance de ganhar prêmios e recompensas.
+- **Sorteios/Burn: 1%**  
+  - Destinado a distribuição, podendo ser sorteios para usuários únicos ou burn de tokens proporcionando aos membros a chance de ganhar prêmios e recompensas ou ter o token valorizado por menor supply.
 
 - **Tesouro: 32%**  
   - Mantido no tesouro para garantir a estabilidade financeira e apoiar futuras iniciativas e projetos da comunidade.
