@@ -24,7 +24,7 @@ Aqui você terá acesso direto aos nossos principais links da comunidade!
 ---
 ### Comunidade
 
-#### Site: Em construção 🚧 
+#### Site: [Site Comunidade](https://pinto.wtf/)
 #### Debank Tesouro: [Debank](https://debank.com/profile/0x399df053d46c32ebd52f4890fe518a254a214dae)
 #### Pnl Generator (virtuals): [PNL](https://pnl-helen.streamlit.app/)
 #### ArtBook Figma: [Artbook Comunidade](https://www.figma.com/design/CDBP8MreDUsIUPC0XPhxHJ/Artbook---Pinto-%26-HelenAI?node-id=0-1)
