@@ -12,7 +12,7 @@ sidebar_position: 10
 
 ### O que é a PintoDAO?
 A PintoDAO é uma comunidade brasileira Web3 que busca seguir os princípios de DAO, criada por brasileiros e para falantes do português. Nossa missão é criar um espaço acessível e funcional para acelerar a curva de aprendizado dos membros, possibilitando maiores oportunidades e minimizando perdas.
-📚 *Para saber mais, consulte: [Sobre](Sobre.md)*
+📚 *Para saber mais, consulte: [Sobre](/docs/pinto-brasil/Sobre)*
 
 ### Como a PintoDAO está estruturada?
 A DAO é organizada como um vilarejo com 4 níveis principais:
@@ -32,7 +32,7 @@ A DAO é organizada como um vilarejo com 4 níveis principais:
 Duas opções:
 1. **Via Token**: Deposite 20M tokens Helen no tesouro
 2. **Via NFT**: Adquira um NFT Pinto
-📚 *Para saber mais, consulte: [Acesso Premium](bemvindo.md)*
+📚 *Para saber mais, consulte: [Acesso Premium](/docs/pinto-brasil/bemvindo)*
 
 ### Quais são as categorias de membros?
 1. **Member Premium**
@@ -67,7 +67,7 @@ Os pesos são cumulativos:
 - 26% Despesas operacionais
 - 1% Sorteios/Burn
 - 32% Tesouro de reserva
-📚 *Para saber mais, consulte: [Tesouraria](tesouraria.md)*
+📚 *Para saber mais, consulte: [Tesouraria](/docs/pinto-brasil/tesouraria)*
 
 ### Como são tomadas as decisões?
 - Consultas à comunidade
@@ -99,7 +99,7 @@ São subdivisões especializadas com autonomia parcial, limitadas a 9 membros po
    - Foco: Launchpad comunitário
    - Distribuição: 90% dos lucros para time e participantes
 
-📚 *Para saber mais, consulte: [SubDAOs](SubDAO.md)*
+📚 *Para saber mais, consulte: [SubDAOs](/docs/pinto-brasil/SubDAO)*
 
 ## Callers e Expertise
 
@@ -117,7 +117,7 @@ A comunidade conta com especialistas em diferentes áreas:
 - **Mendes**: Solana e multi-chain
 - **Tembz**: Perpétuos e projetos early-stage
 
-📚 *Para saber mais, consulte: [Callers](callers.md)*
+📚 *Para saber mais, consulte: [Callers](/docs/pinto-brasil/callers)*
 
 ### Como funcionam as calls?
 - Calls são compartilhadas em canais específicos
