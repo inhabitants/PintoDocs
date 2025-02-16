@@ -60,4 +60,10 @@ Ao interagir com a PintoDAO, HelenAI ou outras SubDAOs da Pinto, o usuário reco
 
 ---
 
+Para maiores detalhes:
+
+#### Termos: [Termos Gerais](https://termos.pinto.wtf/)
+#### Política de Privacidade: [Privacy](https://privacy.pinto.wtf/)
+#### Licença: [License](https://license.pinto.wtf/)
+
 *Este disclaimer está sujeito a atualizações. Recomendamos consultar regularmente a versão mais recente em nossa documentação.* 
