@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Core Members
+# Membros
 Está área é dedicada para o nossos membros, aqui você poderá conhecer um pouco mais sobre cada um deles e o que tem feito na comunidade. E dentro do Discord poderá conhecer em muito mais detalhes suas histórias e como chegaram até aqui.
 
 ![image](https://github.com/user-attachments/assets/0b840c5b-33e1-4736-8fb3-d9d7a8732f69)
