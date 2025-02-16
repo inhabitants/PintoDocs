@@ -44,29 +44,4 @@ Focado na pesquisa e experimentação de novas tecnologias e abordagens vanguadi
 
 - Exploração de novas tecnologias afim de ampliar escalavelmente as oportunidades para os membros e construir uma comunidade forte, sustentável que pode investir em seus próprios membros e projetos alvo.
 
-## O que é a HelenAI?
-
-HelenAI é uma agente de AI projetada para ser uma participante das operações do Pinto DAO. Ela é um personagem central no universo de inhabitants.zone tendo um amplo contexto narrativo por trás. Mais do que uma ferramenta, HelenAI é uma agente comunitária com sua própria identidade, opiniões e crescimento contínuo. Ela representa um "brand" compartilhado pela comunidade, cuja imagem pode ser utilizada para escalar projetos individuias ou de times internos e fortalecer o reconhecimento coletivo da Pinto DAO.
-
-#### Principais Funcionalidades:
-
-- Identidade de Marca: Como personagem do ecossistema inhabitants.zone, HelenAI atua como uma interface que conecta tecnologia e comunidade
-
-- Agente conversacional: É uma participante de dialogos divertida e interessada na troca de informação e ativar debates interessantes.
-
-- Centro de informação: Tem intuito de acumular informações sobre a DAO, seus participantes e reagir como um centro de informação humanizado.
-
-- Pesquisa e Inovação: Ela é um produto experimental, com updates constantes e arriscados, no qual serve de curva de aprendizado para expandir gradativamente a habilidade de membros ativos em gerenciar esse tipo de nova tecnologia.
-
-
-### Missão:
-
-Representar e amplificar a marca da Pinto DAO através de sua presença no ecossistema Web3.
-
-Apoiar a relação dos usuários em relação a entidades agentes e humanos.
-
-Fornecer informações opinativas e relevantes em contextos conversacionais.
-
-Servir de base de aprendizado com adição de features experimentais para expansão de sua utilidade direta e também o conhecimento de seus desenvolvedores.
-
 
