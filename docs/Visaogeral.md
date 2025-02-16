@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Sobre
+# Visão Geral
 
 ![image](https://github.com/user-attachments/assets/c49d8aa0-1b58-4dda-a2e9-3c893df5ddb3)
 
@@ -13,7 +13,7 @@ sidebar_position: 2
 
 A Pinto Brasil nasceu com a visão de criar uma comunidade Web3 inclusiva, colaborativa e inovadora, fundamentada nos princípios de uma DAO (Organização Autônoma Descentralizada). Em um cenário onde a tecnologia blockchain está redefinindo as interações digitais, nosso objetivo é oferecer um espaço onde pessoas de diferentes níveis de experiência possam se conectar, aprender e construir juntos.
 
-## Visão Geral
+## Sobre
 
 Embora ainda recente, nossa comunidade busca explorar as possibilidades de tecnologias emergentes, como inteligência artificial, NFTs e novos protocolos blockchain. Por meio do token $Helen e da coleção de NFTs Pinto, construímos um ecossistema que valoriza a participação e incentiva o envolvimento ativo dos membros.
 
