@@ -13,7 +13,7 @@ A PintoDAO é uma comunidade brasileira Web3 nos princípios de DAO (Decentraliz
 📚 *Para saber mais, consulte: [Sobre](./Visaogeral)*
 
 ### Como a visão estrutural da PintoDAO?
-A DAO é visualiza como analogia de um vilarejo com 4 níveis principais na Web3:
+A DAO visualiza em uma analogia de vilarejo com 4 níveis principais na Web3:
 - **Caçadores e Coletores (Nível 1)**: Especialistas em identificar oportunidades como drops, whitelists e farms em diferentes chains
 - **Agricultura (Nível 2)**: Estudos mais avançadas por meio de researchs e aulas para loops de rendimento e geração passiva
 - **Ferraria (Nível 3)**: Laboratório colaborativo para construção de ferramentas e produtos, tanto para uso interno quanto externo
