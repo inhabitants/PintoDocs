@@ -50,16 +50,37 @@ Duas opções:
 
    Obs. Associates e Partners ainda necessitam ser Premium ou Holder de pinto para terem acesso a outras partes do Discord.
 
-### Como funciona o sistema de pesos para premiações?
-Os pesos são cumulativos:
-- 1 NFT Pinto = +1
-- 2 NFTs Pinto = +2
-- Premium (1 ano) = +2
-- Holder 50M+ = +4
-- Holder 200M+ = +6
-- Core Member = +4
+### Como funciona o sistema de pesos para premiações e escalas?
 
-Exemplo: Holder de 1 NFT Pinto e holder de 50M+ Helen = Peso 5
+O sistema de pesos determina a força de participação em premiações e acesso a certas votações na DAO. Quanto maior seu peso total, maiores suas chances em sorteios e força em decisões.
+
+#### Pesos Base
+- **NFTs Pinto**
+  - Primeiro NFT = +1 peso
+  - Segundo NFT = +2 pesos
+  - Máximo de 2 NFTs contabilizados
+
+- **Assinatura Premium**
+  - Premium Anual = +2 pesos
+  - Não acumula com múltiplas assinaturas
+
+#### Pesos por Holdings
+- **Associate** (50M+ tokens) = +4 pesos
+- **Partner** (200M+ tokens) = +6 pesos
+- Apenas o maior tier é contabilizado
+
+#### Pesos Especiais
+- **Core Member** = +4 pesos
+- Acumula com outros pesos
+
+#### Exemplo Prático
+Um membro com:
+- 1 NFT Pinto (+1)
+- Premium Anual (+2)
+- Holder de 50M+ (+4)
+= **Total de 7 pesos**
+
+📚 *Os pesos são utilizados para cálculo de chances em sorteios e força em votações.*
 
 ## Callers
 
@@ -80,11 +101,30 @@ A comunidade conta com especialistas em diferentes áreas:
 📚 *Para saber mais, consulte: [Callers](./callers)*
 
 ### Como funcionam as calls?
-- Calls são compartilhadas em canais específicos por caller
-- São consideradas de médio e alto risco em sua maioria
-- Recomenda-se DYOR (Do Your Own Research)
+Calls são oportunidades e análises compartilhadas por especialistas da comunidade:
+
+#### Estrutura
+- Cada caller possui seu canal específico
+- Foco em suas áreas de especialização
+- Metodologia própria de análise
+
+#### Natureza das Calls
+- Majoritariamente de médio/alto risco
+- Oportunidades early-stage
+- Análises técnicas e fundamentalistas
+- Alphas e informações privilegiadas
+
+#### Responsabilidade
+- DYOR (Do Your Own Research) é essencial
 - Não há indicação de momento de saída
-- Cada caller tem sua especialidade e metodologia
+- Decisões de investimento são individuais
+- Calls são educativas, não recomendações
+
+#### Boas Práticas
+- Acompanhe callers alinhados com seu perfil
+- Faça sua própria pesquisa adicional
+- Gerencie seus riscos adequadamente
+- Mantenha registro de suas operações
 
 ## Dúvidas Técnicas
 
