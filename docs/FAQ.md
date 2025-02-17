@@ -109,11 +109,64 @@ A comunidade conta com especialistas em diferentes áreas:
 
 ## Tesouro e Governança
 
+### Como são as formas de rendimentos para a DAO?
+
+A PintoDAO possui diferentes fontes de rendimento ativas e em desenvolvimento como:
+
+1. **Produtos e Serviços**
+   - HelenAI e suas aplicações
+   - Ferramentas desenvolvidas pela DAO
+   - Serviços de consultoria e desenvolvimento
+
+2. **Tesouro Ativo**
+   - Farming em protocolos DeFi
+   - Staking de tokens estratégicos
+   - Participação em launchpads
+
+3. **SubDAOs**
+   Participação de ganhos das SubDAOs como:
+   - HelenAI SubDAO
+   - Merch SubDAO 
+   - AI Factory SubDAO
+   - Community Pools SubDAO
+
+4. **Parcerias e Colaborações**
+   - Novos membros convidados
+   - Projetos conjuntos
+   - Marketing e promoções
+   - Eventos e workshops
+
+5. **NFTs e Tokens**
+   - Trading Pool de $HELEN
+   - Royalties PintoNFTs
+
+📚 *Para saber mais, consulte: [Tesouraria](./tesouraria)*
+
 ### Como é distribuído os ganhos ao tesouro mensalmente?
-- 41% Core Team
-- 26% Despesas operacionais
-- 1% Sorteios/Burn
-- 32% Tesouro de reserva
+
+A distribuição dos ganhos segue um modelo sustentável dividido em quatro pilares principais:
+
+1. **Core Team**
+   - Recompensa para desenvolvedores ativos
+   - Pagamento de serviços essenciais
+   - Incentivos para contribuidores-chave
+
+2. **Despesas Operacionais**
+   - Manutenção de infraestrutura
+   - Marketing e crescimento
+   - Custos de desenvolvimento
+   - Ferramentas e serviços
+
+3. **Comunidade**
+   - Sorteios e recompensas
+   - Eventos e iniciativas
+   - Queima de tokens $Helen como deflação
+
+4. **Tesouro de Reserva**
+   - Fundo de segurança
+   - Investimentos de longo prazo
+   - Oportunidades estratégicas
+
 📚 *Para saber mais, consulte: [Tesouraria](./tesouraria)*
 
 ### Como são tomadas as decisões?
