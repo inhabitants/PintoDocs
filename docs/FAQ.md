@@ -251,10 +251,10 @@ São subdivisões especializadas com autonomia executiva que funcionam como prod
 - Plataforma de experimentação e desenvolvimento
 
 ### Quais são seus objetivos?
-- Representar e amplificar a marca PintoDAO
-- Apoiar relações entre agentes e humanos
+- Trazer rendimentos e amplificar a marca PintoDAO
+- Apoiar experimentos entre agentes e humanos dentro da comunidade
 - Fornecer informações em contextos conversacionais
-- Servir como base de aprendizado experimental
+- Servir como base de aprendizado experimental prático
 
 
 
