@@ -59,7 +59,7 @@ Servir de base de aprendizado com adição de features experimentais para expans
 
 # Categorias de membros na Pinto DAO
 
-Cada cargo de acesso lhe dá benefícios diferentes e pesos diferentes na comunidade!  
+Cada cargo de acesso lhe dá benefícios e pesos diferentes na comunidade!  
 *(confira melhor em "[Holder e Roles](Holders.md)")*
 
 ### 1. Member Premium
