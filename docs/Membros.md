@@ -19,7 +19,7 @@ Midia Social:
 
 ### Discord Leader
 #### Profeh
- - Responsável por controlar as coisas no discord e o configura! Além de ser um de nossos renomados researchers.
+ - Researcher e Gestor da comunidade, Profeh além de muito bom em caçar airdrops, é muito entendedor de arbitragem e estuda bastante a área!
 
 
 
