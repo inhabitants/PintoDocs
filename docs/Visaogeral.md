@@ -96,4 +96,15 @@ Cada cargo de acesso lhe dá benefícios e pesos diferentes na comunidade!
  
 ![image](https://github.com/user-attachments/assets/d8b9cff4-a502-4230-b5d4-183066971a4a)
 
-
+## Ultimos Updates de Produto
+- Reunir 12 callers de diferentes áreas e visões do mundo cripto.
+- Primeiro evento na comunidade e ínicio da agenda de eventos.
+- Desenvolver modelo LoRa da Helen. Utilize em [Civitai](https://civitai.com/generate)
+- Criação do site da [Helen](https://helenai.xyz/).
+- Criação dos documentos/whitepaper da [PBrasilDAO](https://pintodocs.vercel.app/).
+- Parceria com [KGEN IO](https://x.com/KGeN_IO), acesso antecipado para comunidade no farm de seu airdrop.
+- Realização do Site da [PBrasilDAO](https://pinto.wtf/).
+- Desenvolvimento do modelo de SubDAOs.
+- Evento em parceria com a [Rayls](https://x.com/RaylsLabs)
+- Adquirir Dominio Pinto.wtf
+- Adição de geração de imagem e busca na web á Helen.
