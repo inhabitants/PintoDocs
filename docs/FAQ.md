@@ -33,7 +33,7 @@ Duas opções:
 
 ### Quais são as categorias de membros?
 1. **Member Premium**
-   - Requisito: 20M tokens Helen depositados
+   - Requisito: 25M tokens Helen depositados
    - Benefícios: Role premium com acesso anual a maior parte do Discord
 
 2. **Holder de Pinto**
