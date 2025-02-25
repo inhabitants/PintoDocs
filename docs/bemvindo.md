@@ -16,10 +16,10 @@ O acesso Premium na comunidade Pinto Brasil é como ter uma chave para uma seç�
 **Opção 1: Através de Tokens Helen**
 
 1. **Adquira Tokens Helen**  
-   - Primeiro, adquira tokens Helen, que são necessários para acessar a área Premium.
+   - Primeiro, adquira tokens $Helen, que são necessários para acessar a área Premium.
 
 2. **Deposite Tokens no Tesouro da Comunidade**  
-   - Deposite 20M tokens Helen no tesouro da comunidade para ativar seu acesso Premium.
+   - Deposite 25M tokens Helen no tesouro da comunidade para ativar seu acesso Premium.
 
 3. **Envie sua Hash**  
    - Após o depósito, envie a hash da transação na seção "abra seu ticket" para que possamos confirmar seu acesso.
