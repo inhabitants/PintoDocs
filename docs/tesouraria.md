@@ -22,8 +22,8 @@ Somados os ganhos referentes ao mês, é separado o valor para a Distribuição 
 ### Distribuição do Tesouro da Comunidade
 O tesouro da comunidade Pinto DAO então é dividido da seguinte forma:
 
-- **Core Team: 41%**  
-  - Alocado para a core team, responsável pela gestão e desenvolvimento estratégico da comunidade.
+- **Core Members: 41%**  
+  - Alocado para os core members, responsável pela gestão, design e desenvolvimento estratégico da comunidade e seus produtos.
 
 - **Despesas: 26%**  
   - Reservado para cobrir despesas operacionais, garantindo o funcionamento eficiente da comunidade.
