@@ -63,10 +63,17 @@ Especialista em GameFi, Milca0 traz as melhores oportunidades para quem curte pl
 
 #### Mendes
 <img src="/img/mendes.png" alt="mendes" width="75" />
-Conhecedor da Solana, Mendes está atento a oportunidades em outras redes e games, garantindo que os membros fiquem atualizados.
+Conhecedor da Solana, Mendes está atento a oportunidades em outras redes e games, garantindo que os membros fiquem atualizados de boa parte do mercado.
 - **Mídias Sociais**: [Twitter](https://x.com/mendes_degen)
 
 #### Tembz
 <img src="/img/tembz.png" alt="tembz" width="75" />
 Com um raio-x do mercado, tembz consegue achar oportunidades que vão dês de perpétuos á projetos bem fundamentados bem em seu início! Tembz tenta se manter a frente das tendências do mundo cripto e surfa junto com elas pegando valorizações expressivas!
 - **Mídias Sociais:** [Twitter](https://x.com/andretembz)
+
+#### Profeh
+![image](https://github.com/user-attachments/assets/2fe7db7b-4e9b-4414-ba14-22b77810a457)
+Profeh é um especialista em arbitragem e airdrops, adora explorar novas redes e buscar oportunidades fora da visão de muitos!
+- **Mídias Sociais:** [Twitter](https://x.com/0xprofeh)
+
+
