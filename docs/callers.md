@@ -3,7 +3,8 @@ sidebar_position: 5
 ---
 
 # Callers
-![image](https://github.com/user-attachments/assets/66e24270-0688-4ed1-b2bf-1802cb817c36)
+![image](https://github.com/user-attachments/assets/599299bc-978b-4d51-b04b-6064454a4fb2)
+
 
 
 ### Callers da Comunidade
