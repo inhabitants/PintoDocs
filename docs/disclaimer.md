@@ -68,3 +68,9 @@ Consentimento Informado: Você aceita a natureza experimental do projeto e isent
 Este disclaimer tem o propósito de informar e proteger tanto os criadores quanto os usuários envolvidos na PintoDAO e seus produtos. É altamente recomendado que cada participante procure consultoria jurídica e financeira especializada antes de adquirir tokens, NFTs ou interagir com protocolos DeFi e IA experimentais.
 
 “Esteja ciente de que a descentralização abre portas para oportunidades, mas também para riscos ainda não totalmente conhecidos. Assim, aja sempre com cautela e responsabilidade.”
+
+# Para mais detalhes:
+
+##### Nossos [Termos](https://docs.google.com/document/d/e/2PACX-1vRyPZl7tvyOxSD65rX7bAXWcvRRkEIw-xtr5st1qqjHcNH00vw21TcwfhlX2BwBpzRe939pOGLYuGkg/pub)
+##### Nossa [License](https://docs.google.com/document/d/e/2PACX-1vSFPo0PV9-VFJmUE0uBya6ALz_hklfQrLQGZrPTj6kFCEGC49bNOkunaiSTcOZEP63jhdylFgfZ0LQg/pub)
+##### Nossas [Politica de privacidade](https://docs.google.com/document/d/e/2PACX-1vR-5s_CDZ3nhGTzYkupdqE3jWpU13k-9hot8CKjcOtea5o6outzWhG79A3Vv_LiDu0PN95fPLJbGTwv/pub)
