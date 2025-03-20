@@ -4,9 +4,6 @@ sidebar_position: 10
 
 # Disclaimer Legal
 
-![image](https://github.com/user-attachments/assets/d1821a77-fe1c-4ce1-85e2-2939ab4ca220)
-
-
 ## Sobre a PintoDAO e HelenAI
 
 A PintoDAO é uma Organização Autônoma Descentralizada (DAO). Detentores de $Helen e de PintoNFTs (NFT Pinto) não são apenas participantes, mas co-proprietários do protocolo, podendo propor e votar em mudanças que moldam o futuro da PintoDAO e de seus produtos.
@@ -73,4 +70,4 @@ Este disclaimer tem o propósito de informar e proteger tanto os criadores quant
 
 ##### Nossos [Termos](https://docs.google.com/document/d/e/2PACX-1vRyPZl7tvyOxSD65rX7bAXWcvRRkEIw-xtr5st1qqjHcNH00vw21TcwfhlX2BwBpzRe939pOGLYuGkg/pub)
 ##### Nossa [License](https://docs.google.com/document/d/e/2PACX-1vSFPo0PV9-VFJmUE0uBya6ALz_hklfQrLQGZrPTj6kFCEGC49bNOkunaiSTcOZEP63jhdylFgfZ0LQg/pub)
-##### Nossas [Politica de privacidade](https://docs.google.com/document/d/e/2PACX-1vR-5s_CDZ3nhGTzYkupdqE3jWpU13k-9hot8CKjcOtea5o6outzWhG79A3Vv_LiDu0PN95fPLJbGTwv/pub)
+##### Nossa [Politica de privacidade](https://docs.google.com/document/d/e/2PACX-1vR-5s_CDZ3nhGTzYkupdqE3jWpU13k-9hot8CKjcOtea5o6outzWhG79A3Vv_LiDu0PN95fPLJbGTwv/pub)
