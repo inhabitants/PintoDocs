@@ -12,7 +12,8 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "dev": "docusaurus start"
+    "dev": "docusaurus start",
+    "build:pdf": "npx docs-to-pdf --initialDocURLs=\"https://docs.pinto.wtf/docs/intro\" --contentSelector=\"article\" --paginationSelector=\"a.pagination-nav__link.pagination-nav__link--next\" --excludeSelectors=\".margin-vert--xl a,[class^='tocCollapsible'],.breadcrumbs,.theme-edit-this-page\""
   },
   "dependencies": {
     "@docusaurus/core": "3.7.0",
@@ -25,7 +26,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.7.0",
-    "@docusaurus/types": "3.7.0"
+    "@docusaurus/types": "3.7.0",
+    "docs-to-pdf": "^0.6.2"
   },
   "browserslist": {
     "production": [
