@@ -89,11 +89,6 @@ const config = {
             label: 'White Paper',
           },
           {to: '/blog', label: 'Creators', position: 'left'},
-          {
-            href: 'https://github.com/inhabitants/PintoDocs',
-            label: 'OpenSource',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -135,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Pinto Brasil 🐥, Inc. Built with Docusaurus.`,
+        copyright: `Copyright ${new Date().getFullYear()} Pinto Brasil , Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
