@@ -27,7 +27,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.7.0",
     "@docusaurus/types": "3.7.0",
-    "docs-to-pdf": "^0.6.2"
+    "docs-to-pdf": "^1.1.0"
   },
   "browserslist": {
     "production": [
